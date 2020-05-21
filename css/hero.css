@@ -1,0 +1,64 @@
+body{
+	 margin: 0;
+	 font-family: 'Helvetica' , 'Arial' , sans-serif;
+	 font-size: 20px;
+	 line-height: 30px; 
+}
+header{
+	background-color: #F5EFEF;
+	text-align: center; 
+	padding-top: 50px;
+	padding-bottom:50px;
+}
+
+h1,h2{
+	font-family: 'Amatic SC', cursive;
+}
+header h1{
+	color: black; 
+	font-size: 50px;
+}
+header img{
+	border-radius: 150px;
+    border: 10px solid;
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+main img{
+	max-width: 100%; 
+}
+h2{
+	font-size: 35px;
+	color: black;
+	margin: 40px 0 10px;
+}
+a{
+	color: black;
+}
+a:hover{
+	background-color: yellow;
+	color: red; 
+}
+
+footer{
+	background-color: #F5EFEF;
+	text-align: center;
+	color: black;
+	padding: 50px;
+
+}
+footer p{
+	margin:0;
+}
+
+p.kuva{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+	font-size: 15px;
+}
